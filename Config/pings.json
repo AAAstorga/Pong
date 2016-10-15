@@ -19,7 +19,7 @@
         "name": "sendNotif",
         "url": "http://107.170.21.230:8080/sendNotif",
         "body": "",
-        "method": "GET"
+        "method": "GET",
         "assertions": [
             {
                 "type": "statusCode",
