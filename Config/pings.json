@@ -8,10 +8,6 @@
             {
                 "type": "statusCode",
                 "statusCode": "200"
-            },
-            {
-                "type": "body",
-                "body": "network test :D"
             }
         ]
     }
