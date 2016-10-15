@@ -14,22 +14,6 @@
                 "body": "network test :D"
             }
         ]
-    },
-    {
-        "name": "sendNotif",
-        "url": "http://107.170.21.230:8080/sendNotif",
-        "body": "",
-        "method": "GET",
-        "assertions": [
-            {
-                "type": "statusCode",
-                "statusCode": "200"
-            },
-            {
-                "type": "body",
-                "body": "Finished sending Notif"
-            }
-        ]
     }
 ]
  
