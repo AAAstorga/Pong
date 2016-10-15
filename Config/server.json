@@ -4,9 +4,9 @@
     "on-fail": [
         {
             "type": "email",
-            "email": "$PONG_EMAIL_TARGET",
-            "username": "$PONG_EMAIL_USERNAME",
-            "password": "$PONG_EMAIL_PASSWORD"
+            "email": "aaa332@cornell.edu",
+            "username": "AAAstorga",
+            "password": "austin11"
         }
     ]
 }
