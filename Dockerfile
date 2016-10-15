@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y libssl-dev
 
 WORKDIR /package
 VOLUME /package
-EXPOSE 8080
+EXPOSE 8001
 
 # mount in local sources via:  -v $(PWD):/package
 
