@@ -1,5 +1,5 @@
 {
-    "interval": "60",
+    "interval": "300",
     "redis-port": "6381",
     "on-fail": [
         {
